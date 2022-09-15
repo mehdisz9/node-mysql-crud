@@ -6,3 +6,11 @@ Pour lancer le projet d'abord procéder à l'installation des dépendances via
 npm install
 
 ```
+Pensez à modifier vos identifiants MySQL dans src/assets/db.config.js
+
+Pour lancer le serveur il suffit de taper 
+
+```
+nodemon server
+
+```
