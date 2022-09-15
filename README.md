@@ -8,9 +8,9 @@ npm install
 ```
 Pensez à modifier vos identifiants MySQL dans src/assets/db.config.js
 
-Pour lancer le serveur il suffit de taper 
+Pour lancer le serveur il suffit de taper l'une de ces deux commande à la racine du projet
 
 ```
-nodemon server
+nodemon server || npm start
 
 ```
