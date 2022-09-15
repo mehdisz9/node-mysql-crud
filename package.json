@@ -1,0 +1,26 @@
+{
+  "name": "mysql-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "une simple api permettant d'intéragir avec une base de données MySQL, via des requettes GET, PUT, POST ? DELETE.Technologies utilisées: Javascript, NodeJS, MySQL, ExpressJS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehdisz9/node-mysql-crud.git"
+  },
+  "keywords": [
+    "nodejs",
+    "crud-api",
+    "mysql-crud",
+    "nodejs-crud-api",
+    "nodejs-mysql-crud-api"
+  ],
+  "author": "Mehdi Salim ZAYANI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehdisz9/node-mysql-crud/issues"
+  },
+  "homepage": "https://github.com/mehdisz9/node-mysql-crud#readme"
+}
