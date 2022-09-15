@@ -11,7 +11,7 @@ const dbConnexion = mysql.createConnection({
   host     : 'localhost',
   user     : 'root',
   password : '',
-  database : 'db-nemj'
+  database : 'bd_nemjs'
 });
 dbConnexion.connect(function(err) {
   if (err) throw err;
