@@ -11,6 +11,13 @@ Pensez à modifier vos identifiants MySQL dans src/assets/db.config.js
 Pour lancer le serveur il suffit de taper l'une de ces deux commande à la racine du projet
 
 ```
-nodemon server || npm start
+nodemon server
 
 ```
+Où
+
+```
+npm start
+
+```
+==N'hesitez pas à me joindre pour toutes questions==.
